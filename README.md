@@ -2,6 +2,7 @@
 <h3 align="center">I am a Frontend Developer. I'm working on html, css, vue.js, nuxt.js & REST API.</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ozbekzeynep/)
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/zeynepozbek)
