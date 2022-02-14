@@ -2,9 +2,8 @@
 <h3 align="center">I am a Frontend Developer. I'm working on html, css, vue.js, nuxt.js & REST API.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/ozbekzeynep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ozbekzeynep" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ozbekzeynep/)
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/zeynepozbek)
 
