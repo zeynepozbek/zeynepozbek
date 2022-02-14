@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="center">
+<table align="left">
   <tr>
       <td align="center" width="96">
       <a href="#html5">
